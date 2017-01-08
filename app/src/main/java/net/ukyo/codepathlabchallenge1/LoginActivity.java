@@ -48,11 +48,11 @@ public class LoginActivity extends Activity {
                     break;
 
                 case R.id.btn_register:
-                    Toast.makeText(LoginActivity.this, "Register", Toast.LENGTH_LONG).show();
+                    Toast.makeText(LoginActivity.this, "Register", Toast.LENGTH_SHORT).show();
                     break;
 
                 case R.id.text_forget_password:
-                    Toast.makeText(LoginActivity.this, "Forget Password", Toast.LENGTH_LONG).show();
+                    Toast.makeText(LoginActivity.this, "Forget Password", Toast.LENGTH_SHORT).show();
                     break;
             }
         }
