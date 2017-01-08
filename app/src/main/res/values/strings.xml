@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodePathLabChallenge1</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_sign_in">Sign in</string>
+    <string name="text_forget_password">Forget Password?</string>
+    <string name="btn_register">Register for Free</string>
+</resources>

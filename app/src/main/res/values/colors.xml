@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#e3e2e3</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="blue_light">#8F9AAC</color>
+    <color name="gray">#808080</color>
+
+    <color name="line">@color/blue_light</color>
+    <color name="btn_sign_in_pressed">@color/blue_light</color>
+    <color name="btn_sign_in_normal">@color/blue_light</color>
+    <color name="btn_register_pressed">@color/blue_light</color>
+    <color name="btn_register_normal">@color/white</color>
+    <color name="text_forget_password">@color/white</color>
+    <color name="edit_hint">@color/gray</color>
+</resources>
